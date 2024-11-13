@@ -1,2 +1,3 @@
 
-seguimos con el diff
+#seguimos con el diff
+# Ahora verificamos los cambios para poder observarlos
